@@ -1,0 +1,20 @@
+{
+  "name": "hospital_and_ecommerce_data_modeling",
+  "version": "1.0.0",
+  "description": "just testing and trying out data modeling in ecommerce sites and hospitals",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Rupayan Roy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1"
+  }
+}
